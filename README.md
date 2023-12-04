@@ -7,12 +7,17 @@ With my experience and qualifications in the field of science, especially in mat
 
 ```json
 {
-    'name': 'ptr',
-    'location': 'Dvn, UK',
-    'skillset': [
-        {'languages': ['Python', 'R', 'SQL']}
+    "name": "ptr",
+    "location": "Dvn, UK",
+    "skillset": [
+        {
+            "languages": [
+                "Python",
+                "R",
+                "SQL"
+            ]
+        }
     ]
-
 }
 ```
 
