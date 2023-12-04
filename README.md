@@ -2,7 +2,7 @@
 
 ### About me
 
-After completing my BSc degree, I chose to further my studies in mathematics. I pursued postgraduate education and deepened my understanding of various mathematical concepts and theories.
+I studied mathematics during my undergraduate studies, after completing it I pursued postgraduate education and deepened my understanding of various mathematical concepts and theories.
 With my experience and qualifications in the field of science, especially in mathematics and computer sciences, I have made the decision to pursue a career in data science instead of focusing solely on mathematics. This was influenced by my passionate interest in data and the boundless possibilities it offers.
 
 
