@@ -5,7 +5,7 @@
 I studied mathematics during my undergraduate studies, after completing it I pursued postgraduate education and deepened my understanding of various mathematical concepts and theories.
 With my experience and qualifications in the field of science, especially in mathematics and computer sciences, I have made the decision to pursue a career in data science instead of focusing solely on mathematics. This was influenced by my passionate interest in data and the boundless possibilities it offers.
 
-### ... and a bit more ...
+### ... and a bit more
 ```json
 {
     "name": "ptr",
@@ -31,17 +31,6 @@ With my experience and qualifications in the field of science, especially in mat
     ]
 }
 ```
-### ...some facts ...
-
-|ptr'sStats |    | Languages|
-|:---: | ---: | :---:|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrGSKA&show_icons=true&theme=dracula&hide_rank=True&hide_title=True)| **<------------>**|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrGSKA&theme=dracula&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)|
-
-... and more.
-
-
-
-
 
 
 <!--
@@ -57,4 +46,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### ...some facts ...
+
+|ptr'sStats |    | Languages|
+|:---: | ---: | :---:|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrGSKA&show_icons=true&theme=dracula&hide_rank=True&hide_title=True)| **------------**|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrGSKA&theme=dracula&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)|
+
+... and more.
+
 -->
