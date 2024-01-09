@@ -2,27 +2,39 @@
 
 ### About me...
 
-I studied mathematics during my undergraduate studies, after completing it I pursued postgraduate education and deepened my understanding of various mathematical concepts and theories.
-With my experience and qualifications in the field of science, especially in mathematics and computer sciences, I have made the decision to pursue a career in data science instead of focusing solely on mathematics. This was influenced by my passionate interest in data and the boundless possibilities it offers.
+Drawing upon my mathematical background, I made a transition towards computer sciences,with a specific focus on data sciences and engineering. This was influenced by my passionate interest in data and the boundless possibilities it offers. With over a year of experience coding in multiple languages including Python, R and SQL I'm an avid Data Engineer with proficiency in data science, statistics, analysis, machine learning, data engineering and automating data pipelines for ETL/ELT processes.Experienced in Cloud computing, AWS, and handling both batch and real-time data streams using Kinesis and Databricks.
 
 ### ... and a bit more
 ```json
 {
     "name": "ptr",
-    "location": "Dvn, UK",
+    "location": "UK",
     "skillset": [
         {
             "languages": [
                 "Python",
                 "R",
-                "SQL"
+                "SQL",
+                "Bash"
             ],
-            "developer_tools": [
+            "databases": [
+                "PostgreSQL",
+                "MySQL"
+            ],
+            "cloud_computing": [
+                "AWS (VPC, EC2, RDS, S3, MSK, MWAA IAM, Kinesis)",
+                "Apache Kafka",
+                "Apache Spark",
+                "Apache Airflow",
+                "Databricks"
+            ],
+            "other_tools": [
                 "VSCode",
                 "PyCharm",
                 "RStudio",
                 "Git",
-                "Docker"
+                "Shiny"
+                "Linux"
             ],
             "visualization_tools": [
                 "Tableau"
