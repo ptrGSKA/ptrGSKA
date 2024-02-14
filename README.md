@@ -2,7 +2,7 @@
 
 ### About me...
 
-Drawing upon my mathematical background, I made a transition towards computer sciences,with a specific focus on data sciences and engineering. This was influenced by my passionate interest in data and the boundless possibilities it offers. With over a year of experience coding in multiple languages including Python, R and SQL I'm an avid Data Engineer with proficiency in data science, statistics, analysis, machine learning, data engineering and automating data pipelines for ETL/ELT processes.Experienced in Cloud computing, AWS, and handling both batch and real-time data streams using Kinesis and Databricks.
+Drawing upon my mathematical background, I made a transition towards computer sciences,with a specific focus on data science and engineering. This was influenced by my passionate interest in data and the boundless possibilities it offers. With over a year of experience coding in multiple languages including Python, R and SQL I'm an avid Data Engineer with proficiency in data science, statistics, analysis, machine learning, data engineering and automating data pipelines for ETL/ELT processes.Experienced in Cloud computing, AWS, and handling both batch and real-time data streams using Kinesis and Databricks.
 
 ---
 
@@ -36,8 +36,9 @@ Drawing upon my mathematical background, I made a transition towards computer sc
                 "PyCharm",
                 "RStudio",
                 "Git",
-                "Shiny"
-                "Linux"
+                "Shiny",
+                "Linux",
+                "Docker"
             ],
             "visualization_tools": [
                 "Tableau"
